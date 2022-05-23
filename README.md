@@ -1,7 +1,8 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Aman-Sharma](https://twitter.com/Aman-Sharmaa) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Aman-Sharma](https://github.com/Aman-Sharmaa) for technical updates.
 
+For More Interview Question Check [Multigrad.in](https://multigrad.com/) 
 ---
 
 
